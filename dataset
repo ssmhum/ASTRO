@@ -1,1 +1,2 @@
-    git clone --bare https://github.com/jiaweimmiao/AstroSR/tree/main/dataset.git
+    git clone https://github.com/jiaweimmiao/AstroSR.git
+    git clone https://github.com/ssmhum/ASTRO/edit/main/dataset.git
